@@ -1,124 +1,94 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "ProductNumber": "1",
+      "ProductName": "Trek 9000 Mountain Bike",
+      "RetailPrice": "1200",
+      "QuantityOnHand": "6"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "ProductNumber": "2",
+      "ProductName": "Eagle FS-3 Mountain Bike",
+      "RetailPrice": "1800",
+      "QuantityOnHand": "8"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "ProductNumber": "3",
+      "ProductName": "Dog Ear Cyclecomputer",
+      "RetailPrice": "75",
+      "QuantityOnHand": "20"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "ProductNumber": "4",
+      "ProductName": "Victoria Pro All Weather Tires",
+      "RetailPrice": "55",
+      "QuantityOnHand": "20"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "ProductNumber": "5",
+      "ProductName": "Dog Ear Helmet Mount Mirrors",
+      "RetailPrice": "8",
+      "QuantityOnHand": "12"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "ProductNumber": "6",
+      "ProductName": "Viscount Mountain Bike",
+      "RetailPrice": "635",
+      "QuantityOnHand": "5"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "ProductNumber": "7",
+      "ProductName": "Viscount C-500 Wireless Bike Computer",
+      "RetailPrice": "49",
+      "QuantityOnHand": "30"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "ProductNumber": "8",
+      "ProductName": "Kryptonite Advanced 2000 U-Lock",
+      "RetailPrice": "50",
+      "QuantityOnHand": "20"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "ProductNumber": "9",
+      "ProductName": "Nikoma Lok-Tight U-lock",
+      "RetailPrice": "33",
+      "QuantityOnHand": "12"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "ProductNumber": "10",
+      "ProductName": "Viscount Microshell Helmet",
+      "RetailPrice": "36",
+      "QuantityOnHand": "20"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "ProductNumber": "11",
+      "ProductName": "GT RTS-2 Mountain Bike",
+      "RetailPrice": "1650",
+      "QuantityOnHand": "5"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "ProductNumber": "12",
+      "ProductName": "Shinoman 105 SC Brakes",
+      "RetailPrice": "24",
+      "QuantityOnHand": "16"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "ProductNumber": "13",
+      "ProductName": "Shinoman Dura-Ace Headset",
+      "RetailPrice": "68",
+      "QuantityOnHand": "20"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "ProductNumber": "14",
+      "ProductName": "Eagle SA-120 Clipless Pedals",
+      "RetailPrice": "140",
+      "QuantityOnHand": "20"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "ProductNumber": "15",
+      "ProductName": "ProFormance Toe-Klips 2G",
+      "RetailPrice": "5",
+      "QuantityOnHand": "40"
     }
   ]
 }
